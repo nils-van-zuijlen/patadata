@@ -1,0 +1,67 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Lambé an dro}
+  [by={Matmatah},cover={la-ouache},album={La ouache}]
+
+  \cover
+
+  \begin{verse*}
+    Mets la ouache, Fanch!
+  \end{verse*}
+
+  \begin{verse}
+    Si tu cherches un peu de gaieté
+    Viens donc faire un tour à Lambé
+    \echo{Si tu cherches un peu de gaieté
+    Viens donc faire un tour à Lambé}
+  \end{verse}
+  \begin{verse*}
+    Si aux exams tu t'es planté
+    \dots
+  \end{verse*}
+  \begin{verse*}
+    Si t'as quelque chose à fêter
+    \dots
+  \end{verse*}
+  \begin{verse*}
+    Y a du chouchen à volonté
+    \dots
+  \end{verse*}
+
+  \begin{verse}
+    Si t'as rien trouvé pour squatter
+    \dots
+  \end{verse}
+  \begin{verse*}
+    Si ton mec vient de te plaquer
+    \dots
+  \end{verse*}
+  \begin{verse*}
+    Si du Bouguen tu veux te jeter
+    \dots
+  \end{verse*}
+  \begin{verse*}
+    Si pour le mélo y a plus d'entrées
+    \dots
+  \end{verse*}
+
+  \begin{verse}
+    Si t'en a marre de galérer
+    \dots
+  \end{verse}
+  \begin{verse*}
+    Si dans le bus tu t'es fait choper
+    Viens donc faire un tour à Lambé
+    \echo{Si dans le bus tu t'es fait pécho
+    Deus da Lambé d'ober an dro}
+  \end{verse*}
+  \begin{verse*}
+    Si t'as de la beuh à partager
+    \dots
+  \end{verse*}
+  \begin{verse*}
+    Et si t'aimes bien la marche à pied
+    \dots
+  \end{verse*}
+
+\endsong
