@@ -1,0 +1,72 @@
+\selectlanguage{french}
+\songcolumns{2}
+
+\beginsong{Citoyen du monde - You're Up}
+  [by={Amplitude}]
+
+  \gtab{D}{XX0232}
+  \gtab{E}{022100}
+  \gtab{F#m}{2XX222}
+  \gtab{A}{X02220}
+  \gtab{G#}{4:033200}
+
+
+  \begin{verse*}
+    \musicnote{\Intro \nolyrics{\[A A/G\shrp{}* F\shrp{}m D E]} \rep{2}}
+  \end{verse*}
+
+  \begin{verse}
+    \[A]Citoy\[A/G#]en du \[F#m]{mon}de d'au\[D]{jour}d'hui
+    Tu \[A]vois bien que ta \[E]{pla}ce est dans la \[D]{ron}de
+    \[A]{Bâ}tis\[A/G#]seur de \[F#m]{mon}de de dem\[D]ain
+    Tu \[A]dois savoir \[D]que ton avis \[E]{com}pte
+  \end{verse}
+  \begin{verse*}
+    \[D]{Lè}ve-toi et prends \[A]la main de ton voi\[E]sin
+    \[D]{Pré}pare-toi à \[A]{dan}ser sur ce ref\[E]rain
+  \end{verse*}
+
+  \begin{chorus}
+    \[A]Get up, get up, get up!
+    We're gonna need you
+    \[A/G#]Stand up, stand up, stand up!
+    We're gonna need you
+    \[F#m]You're up, you're up, you're up!
+    We're gonna need you \[D]\[E]all
+  \end{chorus}
+
+  \begin{verse}
+    Ouvre les yeux, regarde autour de toi
+    le monde qui t'entoure, sois curieux!
+    Sois ambitieux, ta richesse c'est ta différence
+    À toi d'écrire la règle du jeu.
+  \end{verse}
+  \begin{verse*}
+    \[D]{Lè}ve-toi et prends \[A]la main de ton voi\[E]sin
+    \[D]{Pré}pare-toi à \[A]{dan}ser sur ce ref\[E]rain
+  \end{verse*}
+
+  \begin{verse*}
+    \musicnote{\Chorus}
+    \musicnote{\nolyrics{\Solo: \[A E D D] \rep{4}}}
+    \musicnote{\nolyrics{\Bridge: \[A E D A]}}
+  \end{verse*}
+
+  \begin{verse}
+    Acheter, consomer, détruire et gâcher
+    Maintenent tout ça doit s'arrêter!
+    Le super-héros c'est toi, tu peux changer les choses
+    Juste en bougeant le petit doigt.
+  \end{verse}
+  \begin{verse*}
+    \[D]{Lè}ve-toi et prends \[A]la main de ton voi\[E]sin
+    \[D]{Pré}pare-toi à \[A]{dan}ser sur ce ref\[E]rain
+  \end{verse*}
+
+  \begin{verse*}
+    \musicnote{\Chorus}
+    \musicnote{\nolyrics{\Outro: \[A A/G\shrp{} F\shrp{}m D E] \rep{4}}}
+    \musicnote{\nolyrics{* \[A/G\shrp{}] : 476xx4}}
+  \end{verse*}
+
+\endsong
