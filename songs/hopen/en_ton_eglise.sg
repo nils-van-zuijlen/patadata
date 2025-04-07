@@ -1,0 +1,44 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{En ton Église}
+  [by={Hopen},cover={merci},album={Merci}]
+
+  \cover
+
+  \begin{verse}
+    Ici, en ton église s’élève
+    Mon chant, ma voix
+    Un pas me fait me lever, me fait dire
+    Je vis pour toi
+  \end{verse}
+
+  \begin{chorus}
+    Nos cœurs et nos bras levés
+    Chacun de nous rassemblés
+    Réunis pour t’acclamer
+    Dans ma vie, c’est décidé
+    C’est par la foi que je peux chanter
+    Par ta victoire je peux me lever
+    Car je vivrai pour toi je peux affirmer
+    Que c’est avec toi que je veux danser
+  \end{chorus}
+
+  \begin{verse}
+    Ici en ton église, tu règnes
+    Dieu notre choix
+    Toi seul est la raison de nos cris,
+    De notre foi
+  \end{verse}
+
+  \begin{chorus}
+    Nos cœurs et nos bras levés
+    Chacun de nous rassemblés
+    Réunis pour t’acclamer
+    Dans ma vie, c’est décidé
+    C’est par la foi que je peux chanter
+    Par ta victoire je peux me lever
+    Car je vivrai pour toi je peux affirmer
+    Que c’est avec toi que je veux danser
+  \end{chorus}
+
+\endsong
