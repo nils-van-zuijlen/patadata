@@ -1,0 +1,87 @@
+\selectlanguage{french}
+\songcolumns{1}
+\beginsong{Changer le monde}
+  [by={Jamboree},album={Changer le monde}]
+
+  \cover
+  \gtab{C}{X32010}
+  \gtab{Dm}{XX0231}
+  \gtab{F}{XX3211}
+  \gtab{G}{320003}
+  \gtab{Am}{X02210}
+
+  \begin{verse*}
+    \musicnote{Intro: \nolyrics{\[Dm Am]|\[C G]|\[Dm Am]|\[C G]}}
+  \end{verse*}
+
+  \begin{verse}\memorize
+    \[Dm] Même quand le c\[Am]iel vire au g\[C]ris, derrière il \[G]cache un peu de b\[Dm]leu
+    Sous son ar\[Am]mure mon coeur sou\[C]rit, fais un \[G]effort découvres-\[Dm]le!
+    Si on te \[Am]dit que la vie n'est pas \[C]belle, réponds-\[G]leur que c'est là tout l'en\[Dm]jeu,
+    De voir \[Am]dans les nuages des mer\[C]veilles quand il \[G]pleut.
+    \[Dm] Si on te dit que le monde est cr\[C]uel, réponds-\[G]leur qu'on te le révèle \[Dm]mieux.
+    On a \[Am]tous un petit bout de so\[C]leil dans \[G]nos yeux.
+  \end{verse}
+
+  \begin{chorus}
+    Puisqu'on est \[Dm]deux qu'on se ras\[Am]semble,
+    Puisqu'on le \[C]peut, qu'on se res\[G]semble,
+    Impossible \[Dm]on le laisse au \[Am]vent,
+    On est \[C]prêt, on est prêt, on est \[G]prêt.
+    Rien n'sera \[Dm]jamais comme a\[Am]vant,
+    Demain est \[C]un nouveau pré\[G]sent,
+    Qu'on red\[Dm]essine comme des en\[Am]fants,
+    On est \[C]prêt, on est prêt, on est \[G]prêt,
+    À changer le \[Dm]monde, \[Am]monde,
+    \[C]{Oh-oh}-oh-oh-\[G]oh
+    À changer le \[Dm]monde, \[Am]monde,
+    \[C]{Oh-oh}-oh-oh-\[G]oh
+  \end{chorus}
+
+   \begin{verse}
+    \[Dm] On a oubli\[Am]é en chem\[C]in que nos vies \[G]sont des châteaux de sab\[Dm]les,
+    Dont il faut sa\[Am]voir prendre \[C]soin, non ce ne \[G]sont pas que des \[Dm]fables!
+    Le bon\[Am]heur c'est comme un boome\[C]rang quand on \[G]le partage il nous re\[Dm]vient,
+    Si on \[Am]{n'a} pas tous la même \[C]langue, ça n'fait \[G]rien.
+    \[Dm] C'est un \[Am]point de vue une question \[C]d'angle, de verre \[G]moitié vide ou moitié \[Dm]plein.
+    On a tou\[Am]jours plus que c'qu'il nous \[C]semble dans nos \[G]mains
+  \end{verse}
+
+  \begin{chorus}
+    Puisqu'on est \[Dm]deux qu'on se ras\[Am]semble,
+    Puisqu'on le \[C]peut, qu'on se res\[G]semble,
+    Impossible \[Dm]on le laisse au \[Am]vent,
+    On est \[C]prêt, on est prêt, on est \[G]prêt.
+    Rien n'sera \[Dm]jamais comme a\[Am]vant,
+    Demain est \[C]un nouveau pré\[G]sent,
+    Qu'on red\[Dm]essine comme des en\[Am]fants,
+    On est \[C]prêt, on est prêt, on est \[G]prêt,
+    À changer le \[Dm]monde, \[Am]monde,
+    \[C]{Oh-oh}-oh-oh-\[G]oh
+    À changer le \[Dm]monde, \[Am]monde,
+    \[C]{Oh-oh}-oh-oh-\[G]oh
+  \end{chorus}
+
+  \begin{bridge}
+    \[Dm] Et si la vie nous joue des \[Am]tours,
+    C'est que c'est la règle du \[C]jeu,
+    \[C] Mais on se relèvera tou\[G]jours,
+    On fera de notre m\[Dm]ieux.
+    Et si la nuit remplace le \[Am]jour,
+    Si tous nos rêves prennent \[F]feu,
+    Ce qui nous sauvera c'est l'\[G]amour!
+  \end{bridge}
+
+  \begin{chorus}
+    Puisqu'on est \[Dm]deux qu'on se ras\[Am]semble,
+    Puisqu'on le \[C]peut, qu'on se res\[G]semble,
+    Impossible \[Dm]on le laisse au \[Am]vent,
+    On est \[C]prêt, on est prêt, on est \[G]prêt.
+    À changer le \[Dm]monde, \[Am]monde,
+    \[C]{Oh-oh}-oh-oh-\[G]oh
+    À changer le \[Dm]monde, \[Am]monde,
+    \[C]{Oh-oh}-oh-oh-\[G]oh
+    À changer le \[Dm]monde
+  \end{chorus}
+
+\endsong

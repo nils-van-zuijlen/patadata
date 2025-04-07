@@ -1,0 +1,79 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Plus haut}
+  [by={Jamboree},cover={jamboree},album={Jamboree}]
+
+  \cover
+  \capo{3}
+  \gtab{D}{XX0232}
+  \gtab{Em}{022000}
+  \gtab{G}{320003}
+  \gtab{Bm}{X24432}
+
+  \begin{verse*}
+    \musicnote{Intro: \nolyrics{\[Em G] \[D]}}
+  \end{verse*}
+
+  \begin{verse}
+\[Em]Un peu lasse, \[G]un peu lâche
+\[D]Des gens déçus qui f\[N.{C}.]ont la gueule
+\[Em]Et pendant qu'on se \[G]plaint l'avenir est bien \[D]seul \[N.{C}.]
+\[Em]On délaisse, \[G]la promesse
+\[D]Celle qui anime t\[N.{C}.]ant la jeunesse
+\[Em]Demain sera heu\[G]reux, tout ira pour le \[D]mieux \[N.{C}.]
+\end{verse}
+
+
+  \begin{verse*}
+\[Em]C'est pas la peine d'avoir \[G]fait la guerre
+Pour \[D]comprendre les enjeux (N\[N.{C}.]on, non, non)
+\[Em]On sait bien qu'il y a t\[G]ant à faire
+Que \[D]la vie n'est pas un jeu \[N.{C}.]
+  \end{verse*}
+
+
+  \begin{chorus}
+\[Em]Il est temps d'affronter les dangers
+\[Bm]Il est temps de nous encourager
+\[G]Donnez-nous la force de rêver
+Et \[D]de l'élan pour nous dépasser
+\[Em]Il est temps d'affronter les dangers
+\[Bm]Il est temps de nous encourager
+\[G]Donnez-nous les raisons d'espérer
+\[D]Un autre monde à imaginer
+  \end{chorus}
+
+
+  \begin{chorus}
+Pour a\[Em]ller plus haut
+Pour a\[Bm]ller plus haut
+Pour a\[G]ller plus haut
+Pour a\[D]ller plus haut
+  \end{chorus}
+
+
+  \begin{verse}
+\[Em]On gagnera pas de com\[G]bat avec un soupir
+\[D]En baissant les bras on va pas s\[N.{C}.]'en sortir
+\[Em]Il y a dans no\[G]s yeux tell'ment de volon\[D]té  \[N.{C}.]
+\end{verse}
+
+
+  \begin{verse*}
+\[Em]C'est pas la peine de f\[G]aire la tête
+Pour \[D]changer de destin (N\[N.{C}.]on, non, non)
+\[Em]Comme il y a dans ch\[G]aque geste
+\[D]Un bout du chemin \[N.{C}.]
+  \end{verse*}
+
+
+  \begin{verse}
+\[N.{C}.]Ma main, je la tends pour toi, tu vois
+\[N.{C}.]Et tout ira pour le mieux, tu vois
+\[N.{C}.]Demain nous attend, réveille-toi
+\[Em]Ma main, je la \[G] tends pour toi, tu vois
+\[D]Et tout ira pour le mieux, tu vois
+\[Em]Demain nous a\[G]ttend, réveille-\[D]toi \[N.{C}.]
+  \end{verse}
+
+\endsong

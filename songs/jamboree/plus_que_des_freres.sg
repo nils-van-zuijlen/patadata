@@ -1,0 +1,85 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Plus que des frères}
+  [by={Jamboree},cover={jamboree},album={Jamboree}]
+
+  \cover
+  \capo{2}
+  \gtab{C}{X32010}
+  \gtab{F}{XX3211}
+  \gtab{F7M}{XX3210}
+  \gtab{G}{320003}
+  \gtab{Am}{X02210}
+
+  \begin{verse*}
+    \musicnote{Intro: \nolyrics{\[Am F C G]}}
+  \end{verse*}
+
+  \begin{verse}
+    \[Am] On est là, g'nou au sol dans la rosée du \[F]matin
+    \[C] Bermuda, badge au col, près de nos coeurs en \[G]commun
+    \[Am] Un foulard, un symbole d'une famille de \[F]copains
+    On est tous ensem\[C]ble, faisons la forêt notre cham\[G]bre
+  \end{verse}
+
+  \begin{verse*}
+    Dans \[F7M]ces allées de chênes où les loups
+    \[Am]Parfois se déchaînent comme nou\[G]s, comme nou\[G]s
+    \[F7M] Des vallées, des plaines de cailloux
+    \[Am]Unis ici, unis partou\[G]t
+    Enfants des bois, unis \[G]par la loi
+  \end{verse*}
+
+  \begin{chorus}
+    O\[N.{C}.]\[Am]n a tous le \[G]même che\[C]min
+    Croix \[F]de bois, croix de f\[Am]er
+    \[G]On est plus que des \[C]frères
+    On fait \[Am]tous la \[G]même pro\[C]messe
+    Et \[F]jamais on se l\[Am]aisse
+    On se re\[G]trouve quand on se \[C]perd
+    \[Am]Ohoh-oh\[G]oh-oh-oh\[C]oh-oh-oh\[F]oh
+    \[Am] On e\[G]st plus que des f\[C]rères
+  \end{chorus}
+
+  \begin{verse}
+    \[Am] On est là si t'es seul pour t'aider, on tient \[F]parole
+    \[C] Le respect des aînés nous aiguille dans la \[G]boussole
+    \[Am] Une épée, deux bâtons, des amis, quelques \[F]chansons
+    On est tous ensem\[C]ble, aidons la nature à s'ét\[G]endre
+  \end{verse}
+
+  \begin{verse*}
+    \[F7M] Des vallées, des plaines de cailloux
+    \[Am]Unis ici, unis partou\[G]t
+    Enfants des bois, unis \[G]par la loi
+  \end{verse*}
+
+  \begin{chorus}
+    O\[N.{C}.]\[Am]n a tous le \[G]même che\[C]min
+    Croix \[F]de bois, croix de f\[Am]er
+    \[G]On est plus que des \[C]frères
+    On fait \[Am]tous la \[G]même pro\[C]messe
+    Et \[F]jamais on se l\[Am]aisse
+    On se re\[G]trouve quand on se \[C]perd
+    \[Am]Ohoh-oh\[G]oh-oh-oh\[C]oh-oh-oh\[F]oh
+    \[Am] On e\[G]st plus que des f\[C]rères
+  \end{chorus}
+
+  \begin{chorus}
+    \nolyrics{\[Am] \[G]|\[C] \[F]}
+    \[Am] On e\[G]st plus que des f\[C]rères
+    \nolyrics{\[Am] \[G]|\[C] \[F]|\[Am] \[G]|\[C]\[N.{C}.]}
+  \end{chorus}
+
+  \begin{bridge}
+    \[Am]Ohoh-oh\[G]oh-oh-oh\[C]oh-oh-oh\[F]oh
+    \[Am] On e\[G]st plus que des f\[C]rères
+    \[Am]Ohoh-oh\[G]oh-oh-oh\[C]oh-oh-oh\[F]oh
+    \[Am] On e\[G]st plus que des f\[C]rères
+  \end{bridge}
+
+  \begin{verse*}
+    \musicnote{Outro: \nolyrics{\[Am] \[G]|\[C] \[F]|\[Am] \[G]|\[C]|\[C]}}
+  \end{verse*}
+
+\endsong

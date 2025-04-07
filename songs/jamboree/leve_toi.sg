@@ -1,0 +1,57 @@
+\selectlanguage{french}
+\songcolumns{1}
+\beginsong{Lève toi}
+  [by={Jamboree},cover={jamboree},album={Jamboree}]
+
+  \cover
+  \gtab{C}{X32010}
+  \gtab{D}{XX0232}
+  \gtab{Em}{022000}
+  \gtab{Am}{X02210}
+  \gtab{Bm}{X24432}
+
+  \begin{verse*}
+    \musicnote{Intro: \nolyrics{\[Em]}}
+  \end{verse*}
+
+  \begin{verse}
+    \[C] C'est pas parce  \[D]{t'as} comme un goût am\[Em]er, non
+    \[C] Au bord de tes  \[D]lèvres des relents de mi\[Em]sère
+    \[C] C'est pas parce que la \[D]vie t'a rangé dans un \[Em]coin avec ton chagrin
+    \[C] Qu'tu dois baisser les \[D]bras, accepter de te \[Em]taire
+  \end{verse}
+
+  \begin{verse}
+    \[C] C'est pas parce que ton \[D]{c\oe ur} a pris la m\[Em]er, non
+    \[C] Qu'la passion s'est no\[D]yée dans un tout petit \[Em]verre
+    \[C] Les blessures invi \[D]sibles elles te suivront par\[Em]tout, même si tu pars loin
+    \[C] Alors reviens au \[D]port, t'as des choses à y \[Em]faire
+  \end{verse}
+
+  \begin{bridge}
+    \[Am] C'est pas parce que les gens t'ont dit qu'tu valais \[Bm]rien que c'est ton destin
+    \[C] Alors reviens au  \[D]port, t'as des bouches à faire \[Em]taire, hey
+  \end{bridge}
+
+  \begin{chorus}
+    Allez, \[C]lève, lève, \[D]lève, élè\[Em]ve-toi
+    Comme on lève le \[C]poing, n'attends pas qu'on te \[D]donne raison ou \[Em]pas
+    Allez, \[C]lève, lève, \[D]lève, élè\[Em]ve-toi
+    Allez déplie tes \[C]rêves, remue ta car\[D]casse et bouge tes dix \[Em]doigts
+  \end{chorus}
+
+  \begin{verse}
+    \[C] C'est vrai que la \[D]vie est remplie de my\[Em]stères
+    \[C] Et que bien trop sou\[D]vent on regarde en a\[Em]rrière
+    \[C] Mais plutôt que d'pleu\[D]rer sur c'que t'aurais pu \[Em]faire, ça ne sert à rien
+    \[C] Pose la pierre, la pre\[D]mière du bonheur de de\[Em]main
+  \end{verse}
+
+  \begin{verse}
+    \[C] J'te promets pas qu'ton \[D]{c\oe ur} n'aura plus jamais \[Em]mal, non
+    \[C] On n'se sépare ja\[D]mais des cass'roles qu'on s'trim\[Em]balle
+    \[C] Mais tu dois essa\[D]yer, t'as vraiment rien à \[Em]perdre, le bonheur c'est tout droit
+    \[C] Pour le saisir, tu \[D]dois faire le premier \[Em]pas
+  \end{verse}
+
+\endsong

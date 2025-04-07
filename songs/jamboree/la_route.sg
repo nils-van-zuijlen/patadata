@@ -1,0 +1,77 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{La route}
+  [by={Jamboree},cover={jamboree},album={Jamboree}]
+
+  \cover
+  \gtab{C}{X32010}
+  \gtab{D}{XX0232}
+  \gtab{Em}{022000}
+  \gtab{G}{320003}
+  \gtab{Am}{X02210}
+  \gtab{Bm}{X24432}
+
+  \begin{verse*}
+    \musicnote{Intro: \nolyrics{\[Am Em Bm Em]}}
+  \end{verse*}
+
+  \begin{verse*}
+    \[Am] J\[N.{C}.]e me r\[Am]appelle ces jours de liesse
+    Où l'on par\[Em]tait vers l'innocence
+    Sur tes \[Bm]chemins, le pas pressé et \[Em]fier
+    Je me ra\[Am]ppelle ces longs chemins
+    Dont on ne \[Em]voyait pas la fin
+    Ces douces ren\[Bm]contres au goût de miel
+    Ce vent si \[Em]pur, cette mer si belle\[D]
+  \end{verse*}
+
+  \begin{verse*}
+    Je me ra\[G]ppelle de nos chansons
+    De ces déc\[D]ors aux vastes horizons
+    De nos sou\[Em]rires, de nos douleurs
+    De nos sou\[Bm]pirs et de nos peurs \[C] \[D] \[N.{C}.]
+  \end{verse*}
+
+  \begin{chorus}
+    Vaga\[G]bondes, nos âmes ont pris la \[D]route
+    Adieu coeur desséch\[Em]é, on trouv'ra bien d'quoi t'arros\[Bm]er
+    Adieu col\[C]ère, adieu désirs a\[G]mers
+    On a op\[D]té pour la folie passa\[D]gère
+    Vaga\[G]bondes, nos âmes ont pris la \[D]route
+    Adieu coeur desséch\[Em]é, on trouv'ra bien d'quoi t'arros\[Bm]er
+    Adieu col\[C]ère, adieu désirs a\[G]mers
+    On a op\[D]té pour la folie passa\[D]gère
+  \end{chorus}
+
+  \begin{verse*}
+    \[Am] Nouveaux rivages sans gri\[Em]llages
+    \[Bm] Nouvelles terres sans ba\[Em]rrières
+    La route nous \[Am]mène où le vent nous en\[Em]traîne
+    Prenons-nous la \[Bm]main et oublions de\[Em]main
+    La route nous guide\[D]ra, on verra bien là-\[D]bas
+  \end{verse*}
+
+  \begin{chorus}
+    Vaga\[G]bondes, nos âmes ont pris la \[D]route
+    Adieu coeur desséch\[Em]é, on trouv'ra bien d'quoi t'arros\[Bm]er
+    Adieu col\[C]ère, adieu désirs a\[G]mers
+    On a op\[D]té pour la folie passa\[D]gère
+  \end{chorus}
+
+  \begin{bridge}
+    Là-bas c'é\[G]tait hier, là bas, c'est éphé\[Bm]mère
+    À quand le \[Em]doux retour de nos folies passa\[Bm]gères \[D]?
+  \end{bridge}
+
+  \begin{chorus}
+    Vaga\[G]bondes, nos âmes ont pris la \[D]route
+    Adieu coeur desséch\[Em]é, on trouv'ra bien d'quoi t'arros\[Bm]er
+    Adieu col\[C]ère, adieu désirs a\[G]mers
+    On a op\[D]té pour la folie passa\[D]gère
+    Vaga\[G]bondes, nos âmes ont pris la \[D]route \echo{Ont pris la route}
+    Adieu coeur desséch\[Em]é, on trouv'ra bien d'quoi t'arros\[Bm]er
+    Adieu col\[C]ère, adieu désirs a\[G]mers
+    On a op\[D]té pour la folie passa\[D]gère
+  \end{chorus}
+
+\endsong
