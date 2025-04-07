@@ -38,7 +38,7 @@
     When all our dreams come true
   \end{verse*}
 
-  \lilypond{Fairytale_of_New_York}
+  %\lilypond{Fairytale_of_New_York}
 
   \begin{verse}
     They've got \[C]cars

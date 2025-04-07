@@ -1,0 +1,242 @@
+book:
+  lang: fr
+  datadir: ".."
+  pictures: yes
+  template: patacrep.tex
+  encoding: utf8
+chords:
+  show: true
+  diagramreminder: all
+  repeatchords: true
+  lilypond: false
+template:
+  patacrep.tex:
+    url: ""
+    email: ""
+    footer: "Créé avec le programme Songbook (\\url{https://patacrep.fr})"
+    picture: img/treble_a
+    picturecopyright: "Dbolton \\url{http://commons.wikimedia.org/wiki/User:Dbolton}"
+  default.tex:
+    title: "Carnet de chants"
+    author: Le groupe Edmond Michelet
+authors:
+  separators: ["and", "et"]
+
+# Utilisation de pdfseparate et pdfunite pour dupliquer toutes les pages
+# Deux pages par feuille
+# Recto-verso cote court
+
+content:
+    - songsection: Temps spi
+
+    - taize/bless_the_lord.sg
+    - taize/nada_te_turbe.sg
+    - taize/jesus_le_christ-lumiere_interieure.sg
+
+    - fabien_moulin/viens_melanger_tes_couleurs.sg
+    - patrick_bouchitey/jesus_reviens.sg
+    - jeff_buckley/hallelujah.sg
+    - rigaldo/contre_vents_et_marees.sg
+    - laurent_grzybowski/souffle_imprevisible.sg
+    - benedicte_ducatel/que_vive_mon_ame_a_te_louer.sg
+    - traditionnel/qui_peut_faire_de_la_voile_sans_vent.sg
+    - hopen/nous_sommes.sg
+    - laurent_grzybowski/des_milliards_de_chemins.sg
+    - soeur_marie-colette/la_premiere_en_chemin.sg
+    - eric_jaffrain/dieu_est_une_fete.sg
+    - marc_danaud/couronnee_d_etoiles.sg
+    - mej/heureux_etes_vous.sg
+    - glorious/le_cantique_des_cantiques.sg
+    - francois_d_assise/laudato_si.sg
+    - glorious/plus_jamais_le_meme.sg
+    - glorious/que_ma_bouche_chante_ta_louange.sg
+    - glorious/jamais_rien_n_arretera_notre_louange.sg
+    - hopen/en_son_nom.sg
+    - jean_claude_gianadda/un_ami.sg
+    - hopen/en_ton_eglise.sg
+    - hopen/unis_comme_des_freres.sg
+    - traditionnel/evenou_shalom.sg
+    - alexis_fleury/toujours_plus_loin.sg
+    - lesbordes/ne_rentrez_pas_chez_vous_comme_avant.sg
+    #- hopen/quand_tu_danses.sg # introuvable
+    #- hopen/laissons_nous_danser.sg # introuvable
+
+    - songsection: Bénédicités
+
+    - benedicites/merci_pour_ce_repas_chaud_bon.sg
+    - benedicites/venez_tous_a_table.sg
+    - benedicites/pour_ce_pain.sg
+    - benedicites/a_la_table_venez_tous.sg
+    - benedicites/oui_mais_avant_de_commencer.sg
+    - benedicites/un_ami_a_droite_un_ami_a_gauche.sg
+    - benedicites/comme_le_pelican.sg
+    - benedicites/pour_tous_les_bourgeons.sg
+    - benedicites/seigneur_vous_qui_donnez_pature.sg
+    - benedicites/quand_la_soupe_bout_dans_la_marmite.sg
+    - benedicites/compagnons.sg
+
+    - songsection: Bans
+
+    - bans.sg
+
+    - songsection: Animation
+
+    - pep_s/liberta.sg
+    - queen/we_will_rock_you.sg
+    - oasis/wonderwall.sg
+    - manau/la_tribu_de_dana.sg
+    - ray_charles/hit_the_road.sg
+    - orelsan/la_terre_est_ronde.sg
+    - orelsan/basique.sg
+
+    - black_m/sur_ma_route.sg
+    - michel_sardou/les_lacs_du_connemara.sg
+    - charles_aznavour/emmenez-moi.sg
+    - au_petit_bonheur/je_veux_du_soleil.sg
+    - charles_aznavour/les_comediens.sg
+    - elton_john/can_you_fell_the_love_tonight.sg
+    - daniel_balavoine/tous_les_cris_les_sos.sg
+    - france_gall/il_jouait_du_piano_debout.sg
+    - francis_cabrel/encore_et_encore.sg
+    - francis_cabrel/je_l_aime_a_mourir.sg
+    - traditionnel/dans_mon_pays_d_espagne.sg
+    - louise_attaque/je_t_emmene_au_vent.sg
+    - georges_brassens/les_copains_d_abord.sg
+    - gerard_lenorman/la_ballade_des_gens_heureux.sg
+    - hugues_aufray/santiano.sg
+    - gregoire/toi_moi.sg
+    - indochine/l_aventurier.sg
+    - herve_cristiani/il_est_libre_max.sg
+    - indochine/j_ai_demande_a_la_lune.sg
+    - jean-jacques_goldman/encore_un_matin.sg
+    - alain_souchon/foule_sentimentale.sg
+    - jacques_higelin/poil_dans_la_main.sg
+    - pink_floyd/another_brick_in_the_wall.sg
+    - jean-jacques_goldman/envole-moi.sg
+    - renaud/mistral_gagnant.sg
+    - jean-jacques_goldman/je_te_donne.sg
+    - oldelaf_et_monsieur_d/la_tristitude.sg
+    - john_lennon/imagine.sg
+    - les_cowboys_fringants/etoiles_filantes.sg
+    - kyo/derniere_danse.sg
+    - telephone/un_autre_monde.sg
+    - the_beatles/yellow_submarine.sg
+    - sinsemilia/tout_le_bonheur_du_monde.sg
+    - steve_waring/le_matou.sg
+    - telephone/new_york_avec_toi.sg
+    - matmatah/lambe_an_dro.sg
+    - mika/elle_me_dit.sg
+    - renaud/des_que_le_vent_soufflera.sg
+    - the_beatles/let_it_be.sg
+    - maxime_le_forestier/san_francisco.sg
+    - traditionnel/l_homme_de_cromagnon.sg
+    - avicii/hey_brother.sg
+    - eiffel_65/blue.sg
+    - tri_yann/les_prisons_de_nantes.sg
+    - la_compagnie_creole/ca_fait_rire_les_oiseaux.sg
+    - jean-jacques_goldman/au_bout_de_mes_reves.sg
+    - hugues_aufray/debout_les_gars.sg
+    - stromae/papaoutai.sg
+    - m/la_seine.sg
+    - bigflo_et_oli/dommage.sg
+    - traditionnel/ne_sens-tu_pas_claquer_tes_doigts.sg
+    - joe_dassin/les_champs_elysees.sg
+    - pow_wow/le_lion_est_mort_ce_soir.sg
+    - jacques_brel/amsterdam.sg
+    - nirvana/come_as_you_are.sg
+    - jean-jacques_goldman/il_changeait_la_vie.sg
+    - gilles_servat/la_blanche_hermine.sg
+    - daniel_balavoine/je_ne_suis_pas_un_heros.sg
+    - jean-jacques_goldman/quand_la_musique_est_bonne.sg
+    - matmatah/les_moutons.sg
+    - soprano/clown.sg
+    - soprano/coeurdonnier.sg
+    - france_gall/resiste.sg
+    - tri_yann/pelot_d_hennebont.sg
+    - soprano/en_feu.sg
+    - ultra_vomit/evier_metal.sg
+    - zazie/rue_de_la_paix.sg
+    - desireless/voyage_voyage.sg
+    - tri_yann/la_jument_de_michao.sg
+    - joe_dassin/siffler_sur_la_colline.sg
+    - fools_garden/lemon_tree.sg
+    - daniel_balavoine/l_aziza.sg
+    - traditionnel/vent_frais.sg
+    - joe_dassin/le_petit_pain_au_chocolat.sg
+    - michel_sardou/la_java_de_broadway.sg
+    - telephone/ca_c_est_vraiment_toi.sg
+    - trois_cafes_gourmands/a_nos_souvenirs.sg
+    - celine_dion/my_heart_will_go_on.sg
+    - pharell_williams/happy.sg
+    - marc_lavoine/elle_a_les_yeux_revolver.sg
+    - emile_images/les_demons_de_minuit.sg
+    - les_forbans/chante.sg
+    - nino_ferrer/le_sud.sg
+    - elton_john/your_song.sg
+    - georges_brassens/chanson_pour_l_auvergnat.sg
+    - tryo/l_hymne_de_nos_campagnes.sg
+
+    ##- claude_francois/alexandrie.sg
+    ##- hugues_aufray/elle_descend_de_la_montagne.sg
+    #- cookie_dingler/femme_liberee.sg # censure samuel
+
+    - songsection: Dessins animés et films
+
+    - dessins_animes/les_mysterieuses_cites_d_or.sg
+    - dessins_animes/prince_ali.sg
+    - dessins_animes/sous_l_ocean.sg
+    - dessins_animes/le_pudding_a_l_arsenic.sg
+    - dessins_animes/ce_reve_bleu.sg
+    - dessins_animes/il_en_faut_peu_pour_etre_heureux.sg
+    - dessins_animes/liberee_delivree.sg
+    - dessins_animes/comme_un_homme.sg
+    ##- dessins_animes/capitaine_flam.sg
+    ##- dessins_animes/tom_sawyer*.sg
+
+    - songsection: Calme
+
+    - felix_leclerc/le_petit_bonheur.sg
+    - hugues_aufray/le_petit_ane_gris.sg
+    - bigflo_et_oli/je_suis.sg
+    - gerard_lenorman/si_j_etais_president.sg
+    - jacques_sevin/chant_des_adieux.sg
+    - francis_cabrel/petite_marie.sg
+    - fredericks_goldman_jones/ne_en_17_a_leidenstad.sg
+    - traditionnel/la_ronde_de_nuit.sg
+    - the_beatles/yesterday.sg
+    - jean-luc_roudaut/liberta.sg
+    - israel_kamakawiwo_ole/somewhere_over_the_rainbow.sg
+
+    - songsection: Chants scouts
+
+    - jamboree/leve_toi.sg
+    - jamboree/changer_le_monde.sg
+    - jamboree/la_route.sg
+    - jamboree/comme_un_accord.sg
+    - jamboree/plus_que_des_freres.sg
+    - jamboree/plus_haut.sg
+    - jamboree/t_en_fais_pas_la_vie_est_belle.sg
+
+    - amplitude/avec_ma_tribu.sg
+    - amplitude/chant_des_equipages.sg
+    - amplitude/des_couleurs_sur_mon_chemin.sg
+    - amplitude/la_caravane.sg
+    - robert_baden-powell/ging_gang_gooli.sg
+    - jeremie_dazy/je_prends_le_relais.sg
+    - be_scout/ensemble_on_est_mieux.sg
+    - jacques_sevin/legende_du_feu.sg
+    - louveteaux_jeanettes/allez_viens.sg
+    - tempo/le_monde_m_appelle.sg
+    - marc_durand/le_monsieur_en_chemise.sg
+    - blue_monkeys/la_vie_en_bleu.sg
+    - hubert_bourel/au_coeur_de_la_planete.sg
+    - amplitude/you_re_up.sg
+    - amplitude/vis_tes_reves.sg
+    - jacques_sevin/chant_de_la_promesse.sg
+    - hubert_bourel/chant_de_la_promesse.sg
+    - jean-jacques_goldman/la_promesse.sg
+    - francois_lebouteux/red_river_valley.sg
+    - traditionnel/l_alphabet_scout.sg
+    - jacques_sevin/priere_scoute.sg
+    - jean_jourdier/farfadets_un_nouveau_monde.sg
+
