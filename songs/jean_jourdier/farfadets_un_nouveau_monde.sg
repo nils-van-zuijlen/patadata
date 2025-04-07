@@ -1,0 +1,71 @@
+\selectlanguage{french}
+\songcolumns{2}
+
+\beginsong{Farfadets, un Nouveau Monde}
+  [by={Jean Jourdier},cover={}]
+
+  \cover
+  \capo{2}
+  \gtab{C}{X32010}
+  \gtab{Dm}{XX0231}
+  \gtab{G}{320003}
+  \gtab{Am}{X02210}
+
+  \begin{verse}
+    Connaissez-vous l’histoire
+    De petits lutins verts
+    Qui voulaient vraiment y croire
+    Aux hommes sur la terre
+  \end{verse}
+  \begin{verse*}
+    Ils rêvaient de grands voyages
+    Et de bateaux sur la mer
+    De voir de beaux paysages
+    Briser les barrières
+  \end{verse*}
+  \begin{verse*}
+    Si vous voulez savoir qui ils sont
+    Et connaitre leur univers
+    Il suffit de crier leur nom
+    Et lever les bras en l’air
+  \end{verse*}
+
+  \begin{chorus}
+    Farfadets, un nouveau monde
+    Je profite de chaque seconde
+    Je t’entraîne dans ma ronde
+    Où je te prends la main
+    \rep{2}
+  \end{chorus}
+  \begin{bridge}
+    Iheo iheo iheo iheeee
+  \end{bridge}
+
+  \begin{verse}
+    Ils grandissent dans la forêt
+    Leur amitié vaut de l’or
+    Si jamais vous découvrez
+    Leur Malle aux trésors
+  \end{verse}
+  \begin{verse*}
+    Vous y trouverez des rêves
+    Des regards et des sourires
+    Un cœur, une Foi qui s’élèvent
+    Des Traces d’avenir
+  \end{verse*}
+  \begin{verse*}
+    Si vous voulez savoir qui ils sont
+    Et connaitre leur univers
+    Il suffit de crier leur nom
+    Et lever les bras en l’air
+  \end{verse*}
+
+  \begin{chorus}
+    Farfadets, un nouveau monde
+    Je profite de chaque seconde
+    Je t’entraîne dans ma ronde
+    Où je te prends la main
+    \rep{2}
+  \end{chorus}
+
+\endsong
