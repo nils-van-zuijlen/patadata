@@ -1,0 +1,74 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Je ne suis pas un héros}
+  [by={Daniel Balavoine}]
+
+  \begin{verse}
+    Les coups de poings dans l'âme
+    Le froid de la lame qui court
+    Chaque jour me pousse
+    Un peu plus vers la fin
+    Quand je monte sur scène
+    Comme on prend le dernier train
+  \end{verse}
+
+  \begin{verse*}
+    Même les soirs de drame
+    Il faut trouver la flamme qu'il faut
+    Pour toucher les femmes
+    Qui me tendent les mains
+    Qui me crient qu'elles m'aiment
+    Et dont je ne sais rien
+  \end{verse*}
+
+
+  \begin{chorus}
+    Je ne suis pas un héros
+    Mes faux pas me collent à la peau
+    Je ne suis pas un héros
+    Faut pas croire ce que disent les journaux
+    Je ne suis pas un héros
+    Un héros
+  \end{chorus}
+
+  \textnote{Refrain répété}
+
+  \begin{verse}
+    Quand les cris de femmes
+    S'accrochent à mes larmes je sais
+    Que c'est pour m'aider
+    À porter tous mes chagrins
+    Et je me dis qu'elles rêvent
+    Mais ça leur fait du bien
+  \end{verse}
+
+  \begin{verse*}
+    À coups de poings dans l'âme
+    J'ai trouvé la trame qu'il faut
+    Mais pour mourir célèbre
+    Il ne faut rien emporter
+    Que ce que les autres
+    N'ont pas voulu garder
+  \end{verse*}
+
+  \begin{verse*}
+    C'est pour ça qu'aujourd'hui
+    Je suis fatigué
+    C'est pour ça qu'aujourd'hui
+    Je voudrais crier
+  \end{verse*}
+
+  \textnote{Refrain \rep{2}}
+
+  \begin{bridge}
+    Je ne suis pas un héros
+    Je ne suis pas un héros
+    Un héros
+    Je ne suis, je ne suis pas un héros
+    Je ne suis pas un héros
+    Un héros
+    Je ne suis, je ne suis pas un héros
+    Je ne suis pas un héros
+  \end{bridge}
+
+\endsong

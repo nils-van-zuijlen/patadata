@@ -1,0 +1,57 @@
+\selectlanguage{french}
+\songcolumns{1}
+\beginsong{La terre est ronde}
+  [by={Orelsan},album={Le chant des sirènes}]
+
+  \begin{chorus}
+    Au fond, j'crois qu'la Terre est ronde
+    Pour une seule bonne raison
+    Après avoir fait l'tour du monde
+    Tout c'qu'on veut, c'est être à la maison
+  \end{chorus}
+
+  \begin{verse}
+    T'as besoin d'une voiture pour aller travailler
+    Tu travailles pour rembourser la voiture que tu viens d'acheter \echo{viens d'acheter}
+    Tu vois l'genre de cercle vicieux?
+    Le genre de trucs qui donne envie d'tout faire sauf de mourir vieux \echo{mourir vieux}
+    Tu peux courir à l'infini
+    À la poursuite du bonheur
+    La Terre est ronde, autant l'attendre ici \echo{l'attendre ici}
+    J'suis pas fainéant mais j'ai la flemme
+    Et ça va finir en arrêt maladie pour toute la semaine \echo{toute la semaine}
+    J'veux profiter des gens qu'j'aime
+    J'veux prendre le temps, avant qu'le temps m'prenne et m'emmène \echo{et m'emmène}
+    J'ai des centaines de trucs sur le feu
+    Mais j'ferai juste c'que je veux quand même
+  \end{verse}
+
+  \begin{verse}
+    Les rappeurs cainris donnent les mêmes conseils que mes parents
+    Fais c'que tu veux dans ta vie, mais surtout, fais d'l'argent \echo{fais d'l'argent}
+    J'essaye de trouver l'équilibre
+    À quoi ça sert de préparer l'avenir si t'oublies d'vivre? \echo{t'oublies d'vivre}
+    En caleçon qui m'sert de pyjama
+    Au lieu d'lécher mon patron pour une avance qu'il m'filera pas \echo{m'filera pas}
+    Ce soir, j'rameuterai l'équipe
+    En attendant, merci d'appeler
+    Mais s'il te plaît, parle après l'bip \echo{parle après l'bip}
+    Aujourd'hui, je me sens bien
+    J'voudrais pas tout gâcher,
+    J'vais tout remettre au lendemain \echo{au lendemain}
+    Y'a vraiment rien dont j'ai vraiment besoin
+    On verra bien si j'me perds en chemin
+  \end{verse}
+
+  \begin{verse}
+    Pourquoi faire tout d'suite tout c'qu'on peut faire plus tard? \echo{plus tard}
+    Tout c'qu'on veut c'est profiter d'l'instant \echo{d'l'instant}
+    On s'épanouit dans la lumière du soir \echo{du soir}
+    Tout c'qu'on veut c'est pouvoir vivre maintenant \echo{maintenant}
+    Pourquoi faire tout d'suite tout c'qu'on peut faire plus tard? \echo{plus tard}
+    Tout c'qu'on veut c'est profiter d'l'instant \echo{d'l'instant}
+    On s'épanouit dans la lumière du soir \echo{du soir}
+    Tout c'qu'on veut c'est pouvoir vivre maintenant \echo{maintenant}
+  \end{verse}
+
+\endsong

@@ -1,0 +1,59 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Voyage Voyage}
+  [by={Desireless}]
+
+  \begin{verse}
+    Au dessus des vieux volcans
+    Glissent des ailes sous le tapis du vent
+    Voyage Voyage
+    Éternellement
+    De nuages en marécages
+    De vent d'Espagne en pluie d'équateur
+    Voyage voyage
+    Vole dans les hauteurs
+    Au d'ssus des capitales
+    Des idées fatales
+    Regarde l'océan
+  \end{verse}
+
+  \begin{chorus}
+    Voyage voyage
+    Plus loin que la nuit et le jour \echo{voyage voyage}
+    Voyage \echo{voyage}
+    Dans l'espace inouï de l'amour
+    Voyage voyage
+    Sur l'eau sacrée d'un fleuve indien \echo{voyage voyage}
+    Voyage \echo{voyage}
+    Et jamais ne reviens
+  \end{chorus}
+
+  \begin{verse}
+    Sur le Gange ou l'Amazone
+    Chez les blacks chez les sikhs chez les jaunes
+    Voyage voyage
+    Dans tout le royaume
+    Sur les dunes du Sahara
+    Des îles îles Fidji au Fujiyama
+    Voyage voyage
+    Ne t'arrête pas
+    Au d'ssus des barbelés
+    Des cœurs bombardés
+    Regarde l'océan
+  \end{verse}
+
+  \begin{verse}
+    Au d'ssus des capitales
+    Des idées fatales
+    Regarde l'océan
+    Voyage voyage
+    Plus loin que nuit et le jour \echo{voyage voyage}
+    Voyage \echo{voyage}
+    Dans l'espace inouï de l'amour
+    Voyage voyage
+    Sur l'eau sacrée d'un fleuve indien \echo{voyage voyage}
+    Voyage \echo{voyage}
+    Et jamais ne reviens
+  \end{verse}
+
+\endsong

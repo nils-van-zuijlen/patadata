@@ -1,0 +1,42 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{En son nom}
+  [by={Hopen},cover={sonne},album={Sonne}]
+
+  \cover
+  % C
+  % F
+  % G
+  % Am
+
+  \begin{verse}
+    \[C]Une \[G]seu\[F]{le voix} nous \[C]guide et nous rassemble,\brk ici en Son nom.
+    \[C]Une \[G]seu\[F]{le foi} nous \[C]mène et nous rassemble,\brk ici en Son nom.
+    \[C]Un \[G]seul \[F]Dieu nous \[G]aime et nous rassemble,\brk ici en Son nom.
+  \end{verse}
+
+  \begin{chorus}
+    \[C Am]{Nous venons L’élever,}
+    \[F G]{Nous venons Le louer,}
+    \[C Am]{Ici nous rassembler,}
+    \[F]Ici en Son nom!
+  \end{chorus}
+
+  \begin{verse*}
+    \nolyrics{\[Am F C C] \rep{2}}
+  \end{verse*}
+
+  \begin{verse}
+    Un seul Père aimant vient se donner,\brk ici en ce lieu.
+    Un seul Fils vivant vient nous sauver,\brk ici en ce lieu.
+    Un Esprit présent vient nous combler,\brk ici en ce lieu.
+  \end{verse}
+
+  \begin{chorus}
+    Nous venons L’élever,
+    Nous venons Le louer,
+    Ici nous rassembler,
+    Ici en ce lieu!
+  \end{chorus}
+
+\endsong

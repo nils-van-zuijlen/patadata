@@ -1,0 +1,43 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Allez viens!}
+
+  % C D Em G Am Am7 Bm Bm7
+
+  \begin{chorus}
+    Allez \[Em]viens, \[C]viens, \[G]viens dans la fo\[D]rêt!
+    Allez \[Em]viens, \[C]viens, \[G]viens dans la fo\[D]rêt!
+    \[Em]Bienvenue dans \[C]la peuplade: \[G]ton équipe, dans \[D]la cabane.
+    \[Am]Mets ta chemise, \[Em]ton foulard, \[C]allez rejoins-\[D]nous!
+    Allez \[Em]viens.
+  \end{chorus}
+
+  \begin{verse}
+    \[Em]Tu quites pa\[Bm7]pa, maman; \[C]au revoir \[Bm]les parents.
+    \[Am7]Salut les co\[Bm]pains. en \[C]orange on est \[D]bien!
+    \[Em]Au c\oe ur de \[Bm7]la nature, \[C]tu vas apprendre \[Bm]en jouant.
+    \[Am7]Tu verras c'est \[Bm]pas si dûr, \[C]tu viens vivre une \[D]aventure!
+  \end{verse}
+
+  \begin{verse}
+    ^Tu deviens louv'^teau jeannette, ^jouons, dansons, ^c'est la fête,
+    ^Après s'être ^présentés, ^on prend le goû^ter.
+    ^Tous ensemble pour ^faire des n\oe uds, ^à plusieurs c'est ^toujours mieux.
+    ^Des étoiles ^plein les yeux ^en chantant au^tour du feu.
+  \end{verse}
+
+  \begin{verse}
+    ^Vas agir pour ^la nature ^et courir à ^toute allure.
+    ^Tu vas grandir, ^découvrir la ^forêt, ses sen^tiers.
+    ^Dormir tous ^sous la tente ^ou les étoiles ^ça te tente.
+    ^Un serment pour ^vivre en groupe, ^on est tous à ^ton écoute.
+  \end{verse}
+
+  \begin{verse}
+    ^Vas-y fais ^de ton mieux, ^ensemble c'est ^plus joyeux.
+    ^Maintenant, c'est ^à ton tour allons ^voir aux allen^tours.
+    ^Tu sauras ten^dre la main ^pour inviter ^des copains,
+    ^les guider sur ^les chemins, ^partons en route ^vers demain.
+  \end{verse}
+
+\endsong

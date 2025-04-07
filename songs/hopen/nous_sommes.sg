@@ -1,0 +1,39 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Nous sommes}
+  [by={Hopen},cover={sonne},album={Sonne}]
+
+  \cover
+  % B&
+
+  \begin{verse}
+    \[B&]Nous \[F]sommes \[E&]un peuple qui se lève.
+    \[B&]Nous \[F]sommes \[E&]une Église qui s’éveille.
+    \[B&]Nous \[F]sommes \[E&]tournés vers l’Éternel.
+    \[B&]Nous \[F]sommes \[E&]unis par Son appel.
+  \end{verse}
+
+  \begin{bridge}
+    \[B&]Sa \[E&]croix nous donne la Vie.
+    \[Gm]Sa voix \[F]nous réunit.
+    \[B&]C'est \[E&]la foi qui nous conduit.
+    \[Gm]C'est Sa \[F]joie qui donne envie d’exister.
+  \end{bridge}
+
+  \begin{chorus}
+    \[Gm]Par \[E&]Lui, avec \[B&]Lui, \[F]en Lui aujourd’hui.
+    \[Gm]À \[E&]Dieu, tout \[B&]puis\[F]sant, uni en l’Esprit.
+  \end{chorus}
+
+  \begin{verse*}
+    \nolyrics{\[Gm E\flt{} B\flt{} F] \rep{2}}
+  \end{verse*}
+
+  \begin{verse}
+    Nous sommes toute une génération.
+    Nous sommes réunis en Son nom.
+    Nous sommes debout, nous proclamons.
+    Nous sommes ici, nous Le chantons.
+  \end{verse}
+
+\endsong

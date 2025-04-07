@@ -1,0 +1,79 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Chant de la promesse}
+  [by={Hubert Bourel}]
+
+  \begin{chorus}
+    \[E]Dans ce monde qui \[B]avance
+    \[A]Je fais de mon \[B]mieux
+    \[E]Pour faire vivre \[B]l’espérance
+    \[A]Et gran\[B]dir le \[E]feu!
+  \end{chorus}
+
+  \begin{verse}
+    Je \[A]me connais,
+    Tu \[E/G#]te connais
+    Je \[A/F#]sais miser sur mes \[B]atouts
+    Je le \[A]promets
+    Tu \[E/G#]le promets
+    En\[A/F#]semble on ira jusqu’\[B]au bout!
+    \[F#m]Quand l’un de nous \[C#m]tombera
+    \[F#m]On pourra comp\[A]ter \[B]sur toi!
+  \end{verse}
+
+  \begin{verse}
+    Je me connais,
+    Tu te connais
+    Tu sais qu’on sera toujours la
+    Je le promets,
+    Tu le promets
+    Même si j’oubliais la loi!
+    Quand l’un de nous tombera
+    On pourra compter sur toi!
+  \end{verse}
+
+  \begin{verse}
+    Je me connais,
+    Tu te connais
+    Avec le secours du Seigneur
+    Je le promets,
+    Tu le promets
+    Prenons le vie du coté cœur!
+    Quand l’un de nous tombera
+    On pourra compter sur toi!
+  \end{verse}
+
+  \begin{verse}
+    Je me connais,
+    Tu te connais
+    Je sais prendre confiance en moi
+    Je le promets,
+    Tu le promets
+    La vie ouvrira grand ses bras!
+    Quand l’un de nous tombera
+    On pourra compter sur toi!
+  \end{verse}
+
+  \musicnote{montée d'un demi ton par rapport au refrain direct}
+
+  \ifchorded
+  \begin{chorus}
+    \[F]Dans ce monde qui \[C]avance
+    \[B&]Je fais de mon \[C]mieux
+    \[F]Pour faire vivre \[C]l’espérance
+    \[B&]Et gran\[C]dir le \[F]feu!
+  \end{chorus}
+  \fi
+
+  \begin{verse}
+    Je me \[B&]connais,
+    Tu \[F/A]te connais
+    Je \[B&/G]me sais déjà bâtisseur \[C]
+    Je le pro\[B&]mets,
+    Tu \[F/A]le promets
+    Av\[B&/G]{ec vous} d’un monde meil\[C]leur!
+    \[Gm]Quand l’un de nous \[Dm]tombera
+    \[Gm]On pourra comp\[B&]ter \[C]sur toi!
+  \end{verse}
+
+\endsong

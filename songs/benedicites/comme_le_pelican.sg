@@ -1,0 +1,20 @@
+\selectlanguage{french}
+\songcolumns{1}
+\beginsong{Comme le pélican}
+
+  \begin{verse}
+    Comme le pélican, pélican, pélican.
+    Nourit ses p'tits enfants, p'tits enfants, p'tits enfants.
+  \end{verse}
+
+  \begin{verse}
+    Comme le kangourou, kangourou, kangourou.
+    Nourit ses p'tits boud'chou, p'tits boud'chou, p'tits boud'chou.
+  \end{verse}
+
+  \begin{chorus}
+    Merci Seigneur pour ce repas!
+    Amen!
+  \end{chorus}
+
+\endsong

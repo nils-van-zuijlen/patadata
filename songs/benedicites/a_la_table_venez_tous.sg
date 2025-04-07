@@ -1,0 +1,17 @@
+\selectlanguage{french}
+\songcolumns{1}
+\beginsong{À la table}
+
+  \textnote{Sur l'air de Frère Jacques}
+
+  \begin{verse}
+    À la table, à la table
+    Venez tous, venez tous
+  \end{verse}
+
+  \begin{verse}
+    Et que Dieu bénisse, et que Dieu bénisse,
+    Ce repas, ce repas.
+  \end{verse}
+
+\endsong

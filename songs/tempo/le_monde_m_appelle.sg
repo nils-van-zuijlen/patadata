@@ -1,0 +1,50 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Le monde m'appelle}
+  [by={Tempo}]
+
+  \cover
+
+  \begin{verse}
+    Il faut que j'aille voir ailleurs
+    D'autres cieux et d'autres fleurs
+    Et s'il n'y a pas de chemin
+    Je saurais bien tracer le mien
+    Je pars oui mais je n'oublie rien
+    De mon passé ni de mes liens
+    Et j'ai glissé dans mes bagages
+    Bien plus que des images
+  \end{verse}
+
+
+  \begin{chorus}
+    Le monde m'appelle
+    Le monde m'attend,
+    La vie est si belle
+    Je ne veux pas
+    Perdre mon temps
+  \end{chorus}
+
+  \begin{verse}
+    Je ne peux pas me contenter
+    De la maison ou du lycée
+    Tous les autres ont tant à m'apprendre
+    Ils m'aideront à mieux comprendre
+    Je ne veux pas baisser les bras
+    Ailleurs on a besoin de moi
+    Même si c'est parfois difficile
+    Je sais que je peux être utile
+  \end{verse}
+
+  \begin{verse}
+    Non je ne veux pas rejetter
+    Ce que mes parents m'ont donné
+    Même s'ils m'ont offert la vie
+    C'est pour la vivre comme j'ai envie
+    Et je construirai ma maison
+    Différente de leur maison
+    Je leur emprunterai des pierres
+    Mais la ferai à ma manière
+  \end{verse}
+
+\endsong

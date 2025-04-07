@@ -1,0 +1,21 @@
+\selectlanguage{french}
+\songcolumns{1}
+\beginsong{Venez tous à table}
+  [by={Traditionnel}]
+
+  \textnote{Sur l'air de We will rock you}
+
+  \begin{verse}
+    Venez tous à table
+    Car la bouffe est prète
+    Et quand j'ai la dalle j'en ai plein l'assiette
+  \end{verse}
+
+  \begin{chorus}
+    Merci, Seigneur,
+    Merci \echo{Whou!} \rep{2}
+    Merci, Seigneur,
+    Merci \echo{Whou!} \rep{2}
+  \end{chorus}
+
+\endsong

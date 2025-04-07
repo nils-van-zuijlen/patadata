@@ -1,0 +1,11 @@
+\selectlanguage{french}
+\songcolumns{1}
+\beginsong{Un ami à droite, un ami à gauche}
+
+  \begin{chorus}
+    Un ami à droite, un ami à gauche, à tous bon appétit \rep{2}
+    Merci Seigneur pour ce repas \rep{3}
+    À tous bon appétit!
+  \end{chorus}
+
+\endsong

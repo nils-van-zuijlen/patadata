@@ -1,0 +1,78 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Le livre de la jungle: Il en faut peu pour être heureux}
+  [by={Dessins\ Animés},cover={the-jungle-book},album={Le livre de la jungle}]
+
+  \cover
+
+  \begin{verse*}
+    Il en faut peu pour être heureux
+    Vraiment très peu pour être heureux
+    Il faut se satisfaire du nécéssaire
+    Un pe d'eau fraiche et de verdure
+    Que nous prodigue la nature
+    Quelques rayons de miel et de soleil.
+  \end{verse*}
+
+  \begin{verse*}
+    Je dors d'ordinaire sous les frondaisons
+    Et toute la jungle est ma maison
+    Toutes les abelles de la forêt
+    Butinent pour moi dans les bosquets
+    Et quand je retourne un  gros caillou
+    Je sais trouver des fourmis dessous.
+    - Essaye c'est bon, c'est doux, oh!
+  \end{verse*}
+
+  \begin{verse*}
+    Il en faut vraiment peu,
+    Très peu pour être heureux!
+    - Mais oui
+    Pour être heureux.
+  \end{verse*}
+
+  \begin{verse*}
+    Il en faut peu pour être heureux
+    Vraiment très peu pour être heureux
+    Chassez de votre esprit tous vos soucis
+    Prenez la vie du bon côté
+    Riez, sautez, dansez, chantez
+    Et vous serez un ours très bien léché!
+  \end{verse*}
+
+  \begin{verse*}
+    Cueillir une banane, oui
+    Ça se fait sans astuce
+    Mais c'est tout un drame
+    Si c'est un cactus
+    Si vous chipez des fruits sans épines
+    Ce n'est pas la peine de faire attention
+    Mais si le fruit de vos rapines
+    Est tout plein d'épines
+    C'est beaucoup moins bon!
+    - Alors petit, as-tu compris?
+    Il en faut vraiment peu,
+    Très peu, pour être heureux!
+    - Pour être heureux?
+    Pour être heureux!
+  \end{verse*}
+
+  \begin{verse*}
+    Et tu verras qu'tout est résolu
+    Lorsque l'on se passe
+    Des choses superflues
+    Alors tu ne t'en fais plus.
+    Il en faut vraiment peu, très peu, pour être heureux.
+  \end{verse*}
+
+  \begin{verse*}
+    Il en faut peu pour être heureux
+    Vraiment très peu pour être heureux
+    Chassez de votre esprit
+    Tous vos soucis \echo{Youpi}
+    Prenez la vie du bon côté
+    Riez, sautez, dansez, chantez
+    Et vous serez un ours très bien léché!
+  \end{verse*}
+
+\endsong

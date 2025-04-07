@@ -1,0 +1,38 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Laudato Si}
+  [by={François d'Assise}]
+
+  \begin{chorus}
+    Laudato si ô mi signore \rep{4}
+  \end{chorus}
+
+  \begin{verse}
+    Loué sois-tu pour le jour et la nuit,
+    Loué sois-tu pour le soleil qui luit,
+    Loué sois-tu pour le ciel étoilé,
+    Loué sois-tu pour la lune voilée.
+  \end{verse}
+
+  \begin{verse}
+    Loué sois-tu pour le rire d’un enfant,
+    Loué sois-tu pour le moment présent,
+    Loué sois-tu pour le pardon donné,
+    Loué sois-tu pour l’amour retrouvé.
+  \end{verse}
+
+  \begin{verse}
+    Loué sois-tu pour le chant des oiseaux,
+    Loué sois-tu pour la fraîcheur de l’eau
+    Loué sois-tu pour la pluie et le vent,
+    Loué sois-tu pour le soir qui descend.
+  \end{verse}
+
+  \begin{verse}
+    Loué sois-tu pour le sel des marais,
+    Loué sois-tu pour l’odeur des forêts,
+    Loué sois-tu pour la brume légère,
+    Loué sois-tu pour le vent de la mer.
+  \end{verse}
+
+\endsong

@@ -1,0 +1,51 @@
+\selectlanguage{french}
+\songcolumns{1}
+\beginsong{Basique}
+  [by={Orelsan},album={La fête est finie}]
+
+  \begin{verse*}
+    OK, j'ai demandé à Skread de faire une instru simple
+    Parce que j'vais dire des trucs simples
+    Parce que vous êtes trop cons
+    OK, simple, basique, basique, OK
+  \end{verse*}
+
+  \begin{verse*}
+    Les gens les plus intelligents sont pas toujours ceux qui parlent le mieux \echo{simple}
+    Les hommes politiques doivent mentir, sinon tu voterais pas pour eux \echo{basique}
+    Si tu dis souvent que t'as pas de problème avec l'alcool, c'est que t'en as un \echo{simple}
+    Faut pas faire un enfant avec les personnes que tu connais pas bien \echo{basique}
+    Les mecs du FN ont la même tête que les méchants dans les films \echo{simple}
+    Entre avoir des principes et être un sale con, la ligne est très fine \echo{basique}
+    Hugo Boss habillait les nazis, le style a son importance \echo{simple}
+    Les dauphins sont des violeurs \echo{ouais}, méfie-toi des apparences \echo{basique}
+  \end{verse*}
+
+  \begin{chorus}
+    Basique, simple, simple, basique \rep{2}
+    Vous n'avez pas les bases \rep{4}
+  \end{chorus}
+
+  \begin{verse*}
+    Si c'est marqué sur internet, c'est p't-être faux, mais c'est p't-être vrai \echo{simple}
+    Illuminati ou pas, qu'est-ce que ça change? Tu te fais baiser \echo{basique}
+    À l'étranger, t'es un étranger, ça sert à rien d'être raciste \echo{simple}
+    Les mecs les plus fous sont souvent les mecs les plus tristes \echo{basique}
+    Cent personnes possèdent la moitié des richesses du globe \echo{simple}
+    Tu seras toujours à un ou deux numéros d'avoir le quinté dans l'ordre \echo{basique}
+    Si t'es souvent seul avec tes problèmes, c'est parce que, souvent, le problème, c'est toi \echo{simple}
+    Toutes les générations disent que celle d'après fait n'importe quoi \echo{cliché}
+  \end{verse*}
+
+  \begin{chorus}
+    Basique, simple, simple, basique \rep{4}
+    Vous n'avez pas les bases \rep{4}
+  \end{chorus}
+
+  \begin{chorus}
+    Basique, simple, vous n'avez pas les bases \rep{4}
+    Basique, simple, simple, basique \rep{3}
+    Basique, simple, simple, vous n'avez pas les bases
+  \end{chorus}
+
+\endsong

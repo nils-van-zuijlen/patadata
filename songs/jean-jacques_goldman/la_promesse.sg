@@ -1,0 +1,87 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{La Promesse}
+  [by={Grégoire et Jean-Jacques Goldman}]
+
+  \capo{3}
+
+  \gtab{C}{X32010}
+  \gtab{D}{XX0232}
+  \gtab{Em}{022000}
+  \gtab{G}{320003}
+  \gtab{Am}{X02210}
+  \gtab{B7}{X21202}
+
+  \begin{verse}
+    \[Em]On était quelques h\[C]ommes
+    Que\[Am]lques hommes quelques f\[D]emmes rêvant de liberté
+    \[Em]On n'était pas à \[C]vendre
+    Ma\[Am]is on pouvait rev\[D]endre des montagnes d'amit\[G]ié
+    Le coeur en bandoul\[Em]ière
+    \[C]Et les bras grands ouv\[Am]erts à tous les étrang\[D]ers
+    On n'avait pas de p\[Em]eur
+    \[C]On sentait la chal\[Am]eur qu'on savait se don\[E7]ner
+  \end{verse}
+
+  \begin{bridge}
+    \[Am]Même au fin fond du d\[Em]ésert
+    \[D]On aidait les plus f\[G]aibles à ne jamais t\[Am]omber
+    Même au milieu des chi\[Em]mères
+    \[C]On y croyait plus fort quand le courage man\[B7]quait
+  \end{bridge}
+
+  \begin{chorus}
+    Oh \[G]vous mes compagnons mes amis de jeu\[D]nesse
+    \[Em]Quelque soient vos histoires non n'oubliez \[B7]jamais
+    Qu'\[G]un beau jour nous avions fait ensemble une pro\[D]messe
+    \[C]S'il n'en reste qu'un nous serons ce der\[B7]nier
+  \end{chorus}
+
+  \begin{verse}
+    ^On était plein d'ar^deur
+    Et ^on sortait vain^queurs de nos pauvres bles^sures
+    Quand les pleurs étaient ^lourds
+    ^On se trouvait tou^jours une voix qui nous ras^sure
+    On avait tant d'en^vie
+    ^Qu'on voyait notre ^vie comme une belle aven^ture
+    On n'avait pas de ^maître
+    ^La seule à nous sou^mettre était la Mère Na^ture
+  \end{verse}
+
+  \begin{bridge}
+    ^Même au fin fond du d^ésert
+    ^On aidait les plus f^aibles et quitte à y ^rester
+    Même au milieu des chi^mères
+    ^On y croyait plus fort quand le courage man^quait
+  \end{bridge}
+
+  \begin{chorus}
+    ^Oh vous mes compagnons mes amis de jeu^nesse
+    ^Quelque soient vos histoires non n'oubliez ja^mais
+    ^Qu'un beau jour nous avions fait ensemble une pro^messe
+    S'^il n'en reste qu'un nous serons ce der^nier
+  \end{chorus}
+
+  \begin{bridge}
+    ^Même au fin fond du dé^sert
+    ^On aidait les plus f^aibles à ne jamais tom^ber
+    Même au milieu des chi^mères
+    ^On y croyait plus fort quand le courage man^quait
+  \end{bridge}
+
+  \begin{chorus}
+    ^Oh vous mes compagnons mes amis de jeu^nesse
+    ^Quelque soit mon histoire non je n'oublie ja^mais
+    ^Et aujourd'hui encore je refais la pro^messe
+    S'^il n'en reste qu'un nous serons ce der^nier
+  \end{chorus}
+
+  \begin{chorus}
+    ^Oh vous mes compagnons mes amis de jeu^nesse
+    Quel^ques soient vos histoires, ne m'oubliez ja^mais
+    ^Et si un jour je tombe faites moi cette pro^messe
+    S'^il n'en reste qu'un vous serez ce der^nier
+    \[Am]{Ce der}nier, \[B7]{ce der}nier \[Em]
+  \end{chorus}
+
+\endsong

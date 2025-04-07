@@ -1,0 +1,30 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Plus jamais le même}
+  [by={Glorious},cover={1000-echos},album={1000 Échos}]
+
+  \cover
+
+  \begin{verse}
+    Je ne serai plus jamais le même
+    Car je sais que Jésus m'aime
+    Rien ne sera plus jamais pareil
+    Son amour fait des merveilles!
+  \end{verse}
+
+  \begin{chorus}
+    Je le crierai, je redirai
+    Que Jésus est ma vie
+    Il m'a sauvé, m'a libéré
+    Jésus est toute ma vie! \rep{3}
+  \end{chorus}
+
+  \begin{verse}
+    Je ne serai plus jamais le même
+    Je porterai son emblème
+    Entendez 1000 échos qui se réveillent
+    Qui se lèvent comme un soleil!
+  \end{verse}
+
+\endsong
+

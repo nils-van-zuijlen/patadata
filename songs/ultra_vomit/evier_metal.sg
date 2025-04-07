@@ -1,0 +1,49 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Évier Métal}
+  [by={Ultra~Vomit}]
+
+  \begin{verse*}
+    Le robinet
+    Fait couler l'eau
+    L'évacuation
+    Évacue l'eau
+    Se brosser les dents
+    Faire sa toilette
+    Pisser dedans
+    Avec sa quéquette
+  \end{verse*}
+
+  \begin{chorus}
+    Au beau milieu de la nuit
+    Quand j'me réveille et que j'veux boire
+    Il est toujours là pour moi
+    Pour étancher mon désespoir
+  \end{chorus}
+
+  \begin{bridge}
+    Il m'éclaire quand il brille dans la nuit
+    Évier métal !
+    Il m'éclaire quand il brille dans la nuit
+    \echo{Oooohooooohoooo}
+    Mon évier de minuit
+    \echo{Oooohooooohoooo}
+  \end{bridge}
+
+  \begin{chorus}
+    Au beau milieu de la nuit
+    Quand j'me réveille et que j'veux boire
+    Il est toujours là pour moi
+    Pour étancher mon désespoir
+  \end{chorus}
+
+  \begin{chorus}
+    Au beau milieu de la nuit
+    Quand j'me réveille et que j'veux boire
+    Il est toujours là pour moi
+    Évier métal
+  \end{chorus}
+
+  \textnote{Répéter le dernier vers à volonté}
+
+\endsong
