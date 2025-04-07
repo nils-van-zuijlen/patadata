@@ -1,0 +1,42 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Toujours plus loin}
+  [by={Alexis Fleury},cover={},album={}]
+
+  \cover
+
+  \begin{verse}
+    \[C]Nous sommes un peuple en m\[F]arche sur terre,
+    Ti\[Am7]ré du sommeil de la n\[G]uit,
+    \[C]Portant l’aurore d’un m\[F]onde nouveau,
+    Li\[Am7]béré des forces ennemi\[G]es!
+  \end{verse}
+
+  \begin{verse*}
+    Tu é\[F7M9]veilles nos cœurs, tu nous \[C/E]lances un appel:
+    Deve\[F7M9]nez mes témoins jusqu’au \[G]bout de la terre!
+  \end{verse*}
+
+  \begin{chorus}
+    Tu es l’Emmanu\[C]el, Dieu avec n\[F]ous,
+    Dieu avec n\[Am]ous, Dieu avec n\[G]ous.
+    Portons la joie au \[C]monde toujours plus l\[F]oin,
+    Toujours plus l\[Am]oin, toujours plus l\[G]oin.
+  \end{chorus}
+
+  \begin{verse}
+    ^Nous sommes un peuple au c^œur de ce monde,
+    Sai^si par l’amour du Seign^eur.
+    ^Brûlons sans cesse d’un f^eu si puissant
+    Qu’il ^embrasera notre t^emps!
+  \end{verse}
+
+  \begin{bridge}
+    \[C]Tu viens nous donner t\[F]a paix, \[Am]comme un fleuve, comme u\[G]n torrent
+    Qui \[C]coule sur les nati\[F]ons, qui \[Am]coule sur les nati\[G]ons.
+    En \[C]toi, en toi, nous \[F]revivrons; en\[Am]semble, ensemble, nous \[G]chanterons. \rep{2}
+  \end{bridge}
+
+  \textnote{Refrain}
+
+\endsong
