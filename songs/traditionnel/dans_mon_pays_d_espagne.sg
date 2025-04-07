@@ -1,0 +1,60 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Dans mon pays d'Espagne}
+  [by={Traditionel},cover={},album={}]
+
+  \cover
+
+  \begin{verse}
+    Dans mon pays d'Espagne olé \rep{2}
+    Y'a un soleil comme ça \rep{2}
+  \end{verse}
+
+  \begin{verse}
+    Dans mon pays d'espagne olé \rep{2}
+    Y'a un soleil comme ça \rep{2}
+    Y'a une montagne comme ça \rep{2}
+  \end{verse}
+
+  \begin{verse}
+    Dans mon pays d'espagne olé \rep{2}
+    Y'a un soleil comme ça \rep{2}
+    Y'a une montagne comme ça \rep{2}
+    Y'a la mer comme ça \rep{2}
+  \end{verse}
+
+  \begin{verse}
+    Dans mon pays d'espagne olé \rep{2}
+    Y'a un soleil comme ça \rep{2}
+    Y'a une montagne comme ça \rep{2}
+    Y'a la mer comme ça \rep{2}
+    Y'a un taureau comme ça \rep{2}
+  \end{verse}
+
+  \begin{verse}
+    Dans mon pays d'espagne olé \rep{2}
+    Y'a un soleil comme ça \rep{2}
+    Y'a une montagne comme ça \rep{2}
+    Y'a la mer comme ça \rep{2}
+    Y'a un taureau comme ça \rep{2}
+    Y'a un chanteur comme ça \rep{2}
+    Y'a une guitare comme ça
+  \end{verse}
+
+  \begin{verse}
+    Dans mon pays d'espagne olé \rep{2}
+    Y'a un soleil comme ça \rep{2}
+    Y'a une montagne comme ça \rep{2}
+    Y'a la mer comme ça \rep{2}
+    Y'a un taureau comme ça \rep{2}
+    Y'a un chanteur comme ça \rep{2}
+    Y'a une guitare comme ça
+    Y'a des danseuse comme ça \rep{2}
+    Y'a des corridas comme ça \rep{2}
+    Y'a des paellas comme ça \rep{2}
+    Y'a du flamenco comme ça \rep{2}
+    Y'a des conchitas comme ça \rep{2}
+    Y'a
+  \end{verse}
+
+\endsong

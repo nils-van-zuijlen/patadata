@@ -1,0 +1,15 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{La ronde de nuit}
+  [by={Traditionnel},cover={traditionnel}]
+
+  \cover
+
+  \begin{chorus}
+    Chut! Plus de bruit c'est la ronde de nuit \rep{2}
+    En diligence, faisons silence,
+    Chut! Plus de bruit, c'est la ronde de nuit
+    Marchons sans bruit, c'est la ronde de nuit
+  \end{chorus}
+
+\endsong
